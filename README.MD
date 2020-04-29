@@ -1,3 +1,5 @@
+Original Library https://github.com/FL3NKEY/stylus-variable-loader
+
 # stylus-variable-loader
 
 This is an experimental thing, be careful.
